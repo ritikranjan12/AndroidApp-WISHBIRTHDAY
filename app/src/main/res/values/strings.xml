@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WishBirthday</string>
+    <string name="name">Name</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="enter_name_here">Enter Name Here:</string>
+    <string name="Ritik">Ex: Ritik</string>
+    <string name="happy_birthday">HAPPY BIRTHDAY</string>
+    <string name="create_new_year_card">Create New Year Card</string>
+    <string name="happy_new_year">HAPPY NEW YEAR</string>
+    <string name="after_marraige_the_other_man_s_wife_looks_more_beautiful">After marraige the\n other man\'s wife looks more beautiful! 😊</string>
+    <string name="after_marraige_the">After marraige the</string>
+    <string name="after_marraige_the_n_other_man_s_wife_n_looks_more_beautiful_n">After marraige the \n other man\'s wife\n looks more beautiful\n😊</string>
+
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
